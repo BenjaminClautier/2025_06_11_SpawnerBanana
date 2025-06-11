@@ -1,0 +1,19 @@
+{
+  "name": "be.technocite.spawnbanana",
+  "version": "0.0.1",
+  "displayName": "Spawn Banana",
+  "description": "Spawn Banana",
+  "unity": "2019.1",
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "A sample demo scene to show basic functionality.",
+      "path": "Scene/Demo"
+    }
+  ],
+  "author": {
+    "name": "Technocite",
+    "email": "",
+    "url": ""
+  }
+}
